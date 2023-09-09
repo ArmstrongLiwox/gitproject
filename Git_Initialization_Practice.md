@@ -71,6 +71,14 @@ git push origin master
 git clone https://github.com/ArmstrongLiwox/gitproject
 ```
 ![git clone](https://github.com/ArmstrongLiwox/gitproject/assets/143335106/11008588-49f2-4f3c-b04b-889d86651c77)
+```
+git commit -m "added the markdown practice"
+```
+![final commit](https://github.com/ArmstrongLiwox/gitproject/assets/143335106/17c53883-edea-4c34-ae4b-4386a9150305)
 
 ## Branch management and tagging
 >my markdown practice file is saved at [markdown_practice.md](https://github.com/ArmstrongLiwox/gitproject/blob/master/markdown_practice.md)
+
+![final commit](https://github.com/ArmstrongLiwox/gitproject/assets/143335106/6c84ee8a-adc3-4d63-8b26-67ae858a7943)
+
+### Thank You
