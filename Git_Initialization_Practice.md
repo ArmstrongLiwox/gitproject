@@ -44,4 +44,12 @@ git checkout master
 ```
 ![git checkout](https://github.com/ArmstrongLiwox/gitproject/assets/143335106/1ee36357-083d-4a9b-af11-9b3ef7955e51)
 
-## 
+>merge a branch into another branch
+```
+git merge mynewbranch
+```
+>delete a git branch
+```
+git branch -d mynewbranch
+```
+![delete branch](https://github.com/ArmstrongLiwox/gitproject/assets/143335106/f52659ca-8289-4f60-a826-6704938704d7)
